@@ -1,155 +1,72 @@
-# 🚀 30 Days of C Programming – Problem Solving Challenge
+# 🚀 30-Day C Programming Challenge
 
-> A structured coding journey focused on mastering **C programming, data structures fundamentals, and interview problem-solving skills** through daily practice.
+Welcome to my **30-Day C Programming Challenge** repository! This repository contains my solutions to **120 C programming problems**, completed as part of a structured practice challenge.
 
----
-
-## 👤 About Me
+## 👩‍💻 About Me
 
 * **Name:** Anshi
-* **Course:** B.Tech Computer Science Engineering
-* **Focus:** C Programming, Logic Building, DSA Fundamentals
+* **Course:** B.Tech in Computer Science & Engineering
 
----
+## 📌 Challenge Overview
 
-## 📌 Project Overview
+* ✅ Duration: **30 Days**
+* ✅ Total Problems Solved: **120**
+* ✅ Language: **C**
+* ✅ Version Control: **Git & GitHub**
 
-This repository contains my **30-Day C Programming Challenge**, where I solve structured programming problems daily to strengthen my problem-solving ability and coding consistency.
+## 📚 Topics Covered
 
-The goal is to build strong fundamentals through **practice-based learning** and maintain a consistent GitHub portfolio.
-
----
-
-## 🧠 Key Highlights
-
-* ✔️ 30 Days Structured Coding Practice
-* ✔️ Interview-Oriented Problems (TCS, Infosys, Wipro, Amazon, Deloitte)
-* ✔️ Clean and modular C programs
-* ✔️ Day-wise organized solution folders
-* ✔️ Consistent GitHub commit history
-* ✔️ Focus on logic building & array-based problems
-
----
-
-## 📂 Repository Structure
-
-```text id="repo123"
-C_Programming_30Day/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-│
-├── Day-16/
-├── Day-17/
-│
-└── Day-30/
-```
-
-Each folder contains:
-
-* C source code files (`.c`)
-* Problem-specific solutions
-* Input/output based programs
-
----
-
-## 🧩 Topics Covered
-
-### Fundamentals
-
-* Input/Output in C
+* Basic C Programming
 * Operators & Expressions
 * Conditional Statements
 * Loops
+* Functions
+* Recursion
+* Arrays
+* Matrices
+* Strings
+* Searching Algorithms
+* Sorting Algorithms
+* Structures
+* Menu-Driven Programs
+* Mini Projects
 
-### Core Logic Building
+## 📂 Repository Structure
 
-* Number problems
-* Pattern printing
-* Function-based solutions
-
-### Arrays & Problem Solving
-
-* Missing number problem
-* Frequency counting
-* Pair sum problems
-* Duplicate removal
-* Array manipulation techniques
-
----
-
-## 💻 Sample Problems
-
-### 📌 Day 16 – Array Problems (Completed)
-
-* Find Missing Number in Array
-* Maximum Frequency Element
-* Pair with Given Sum
-* Remove Duplicates from Array
-
----
-
-## ⚙️ How to Run
-
-Compile any C program using GCC:
-
-```bash id="run123"
-gcc filename.c -o output
-./output
+```text
+Day-01
+Day-02
+Day-03
+...
+Day-29
+Day-30
 ```
 
-### Example:
+Each folder contains **4 C programs** for that day's assignment.
 
-```bash id="run456"
-gcc Q61_Missing_Number.c -o Q61
-./Q61
-```
+## 🎯 Skills Gained
 
----
+* Problem Solving
+* Logical Thinking
+* C Programming Fundamentals
+* Debugging
+* Clean Code Practices
+* Git & GitHub Workflow
 
-## 📈 Progress Tracker
+## 📁 GitHub Repository
 
-| Day    | Status         |
-| ------ | -------------- |
-| Day 01 | ✅ Completed    |
-| Day 05 | ✅ Completed    |
-| Day 10 | ✅ Completed    |
-| Day 12 | ✅ Completed    |
-| Day 16 | ✅ Completed    |
-| Day 17 | 🚧 In Progress |
-| Day 30 | ⏳ Pending      |
+https://github.com/anshi-cse/C_Programming_30Day
 
----
+## 🌟 Project Status
 
-## 🛠️ Tech Stack
+**✅ Completed**
 
-* Language: C Programming
-* Compiler: GCC (MinGW)
-* IDE: Visual Studio Code
-* Version Control: Git & GitHub
+* 📅 30 Days
+* 💯 120 C Programs
+* 🚀 Successfully uploaded to GitHub
 
 ---
 
-## 🎯 Learning Outcomes
+⭐ If you found this repository helpful, feel free to explore it and share your feedback!
 
-* Strong understanding of C fundamentals
-* Improved logical thinking and problem solving
-* Hands-on experience with arrays and functions
-* Consistency in coding practice
-* Preparedness for coding interviews
-
----
-
-## 🔗 GitHub Repository
-
-👉 https://github.com/anshi-cse/C_Programming_30Day
-
----
-
-## 🌟 Note
-
-This repository is continuously updated as part of my daily coding challenge and learning journey.
-
----
 
